@@ -6,7 +6,7 @@ Unlike the previous two projects, this project is all done in playgrounds. Follo
 
 ### Download the Playground
 
-1. Download the playground for this project by clicking [here](https://github.com/johnnydhicks/LambdaSchool-StringsAndArithmetic.zip). 
+1. Download the playground for this project by clicking [here](https://github.com/johnnydhicks/LambdaSchool-StringsAndArithmetic/archive/master.zip). 
 2. Unzip the downloaded file.
 3. Open the included StringsArithmetic.playground file using Xcode
 
